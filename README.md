@@ -20,11 +20,11 @@
 
 ### 🎬 C-Anime – Anime Library Platform  
 Manage watchlists, likes, and reviews with Firebase & external APIs  
-🔗 [Live Demo](https://your-live-demo-link.com) | [Repo](https://github.com/danielyehezkely/c-anime)  
+🔗 [Live Demo](https://dyz-c-anime.netlify.app/) | [Repo](https://github.com/danielyehezkely/c-anime)  
 
 ### 🏋️ TrainMate – Connect Trainees & Trainers  
 Scheduling, payments (Stripe), Google Maps integration  
-🔗 [Live Demo](https://your-live-demo-link.com) | [Repo](https://github.com/danielyehezkely/trainmate)  
+🔗 [Live Demo](https://trainmate.netlify.app/) | [Repo](https://github.com/ArturAbel/TrainMate)  
 
 ### ⚔️ MineCraft 2D  
 A 2D Minecraft-style game built entirely with pure JavaScript, using only DOM manipulation, HTML, and CSS.  
