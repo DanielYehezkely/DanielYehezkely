@@ -18,10 +18,8 @@
 
 ## 📌 Featured Projects  
 
-### 🌐 Portfolio – Full-Stack Personal Website  
-Built with React, TypeScript, Tailwind and a Node.js + Express + MongoDB backend.
-Includes a dynamic project showcase, contact form, and responsive design — demonstrating both frontend and backend skills. 
-
+### 🌐 Portfolio – Personal Website  
+Built with React, TypeScript, Tailwind and a Node.js + Express backend.
 🔗 [Live Portfolio](http://52.28.204.224/) | [Repo](https://github.com/DanielYehezkely/portfolio) 
 
 ### 🎬 C-Anime – Anime Library Platform  
