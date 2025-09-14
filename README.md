@@ -26,9 +26,9 @@ Manage watchlists, likes, and reviews with Firebase & external APIs
 Scheduling, payments (Stripe), Google Maps integration  
 🔗 [Live Demo](https://your-live-demo-link.com) | [Repo](https://github.com/danielyehezkely/trainmate)  
 
-### ⚔️ Battle Squads 2052 – Turn-Based Game  
-React + TypeScript game with animations, assets & AI ideas  
-🔗 [Repo](https://github.com/danielyehezkely/battle-squads-2052)  
+### ⚔️ MineCraft 2D  
+A 2D Minecraft-style game built entirely with pure JavaScript, using only DOM manipulation, HTML, and CSS.  
+🔗 [Live Demo](https://dyz-minecraft-2d-game-project.netlify.app/) |[Repo](https://github.com/danielyehezkely/minecraft2d-game-project)  
 
 ---
 
