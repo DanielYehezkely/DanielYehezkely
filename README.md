@@ -19,11 +19,10 @@
 ## 📌 Featured Projects  
 
 ### 🌐 Portfolio – Full-Stack Personal Website  
-A unique project that combines **frontend (React, TypeScript, Tailwind)** with a custom **backend (Node.js, Express, MongoDB)**.  
-Features include a dynamic projects showcase, contact form integration, and responsive modern UI.  
-This project demonstrates both **client-side** and **server-side** development skills.  
+Built with React, TypeScript, Tailwind and a Node.js + Express + MongoDB backend.
+Includes a dynamic project showcase, contact form, and responsive design — demonstrating both frontend and backend skills. 
 
-🔗 [Live Portfolio](https://your-portfolio-link.com) | [Repo](https://github.com/danielyehezkely/portfolio) 
+🔗 [Live Portfolio](http://52.28.204.224/) | [Repo](https://github.com/DanielYehezkely/portfolio) 
 
 ### 🎬 C-Anime – Anime Library Platform  
 Manage watchlists, likes, and reviews with Firebase & external APIs  
